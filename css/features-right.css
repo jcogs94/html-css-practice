@@ -71,3 +71,13 @@ button {
     top: 179px;
     left: 835px;
 }
+
+#box-2 {
+    width: 480px;
+    height: 360px;
+    top: 120px;
+    left: 240px;
+    border-radius: 8px;
+    border: 1px solid #000000;
+    position: relative;
+}
