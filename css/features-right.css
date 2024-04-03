@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+}
+
+.panel {
+    height: 600px;
+    width: 1440px;
+    background-color: gray;
+}
+
+h3 {
+    width: 254px;
+    height: 34px;
+    top: 179px;
+    left: 835px;
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    line-height: 33.75px;
+    color: #000000;
+}
+
+#art-1 p {
+    width: 422px;
+    height: 85px;
+    top: 253px;
+    left: 835px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    line-height: 28.13px;
+    color: #000000;
+}
+
+#middle-element {
+    margin: 40px 0;
+}
+
+#box-1 {
+    width: 720px;
+    height: 600px;
+    background-color: #000000;
+}
+
+#small-box-1 {
+    width: 320px;
+    height: 360px;
+    position: absolute;
+    top: 120px;
+    left: 198px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+}
+
+#art-1 {
+    height: 243px;
+    width: 422px;
+    position: absolute;
+    top: 179px;
+    left: 835px;
+}
