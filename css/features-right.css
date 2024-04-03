@@ -1,6 +1,9 @@
 body {
     margin: 0;
     color: #000000;
+    background-color: #FFFFFF;
+    width: 1440px;
+    height: 1880px;
 }
 
 .panel {
@@ -44,8 +47,15 @@ button {
     text-align: center;
 }
 
-#middle-element {
-    margin: 40px 0;
+#list-right {
+    top: 640px;
+    left: 1px;
+    position: absolute;
+}
+
+#quote-right {
+    top: 1280px;
+    position: absolute;
 }
 
 #box-1 {
@@ -79,5 +89,25 @@ button {
     left: 240px;
     border-radius: 8px;
     border: 1px solid #000000;
-    position: relative;
+    position: absolute;
+    box-sizing: border-box;
+}
+
+#art-2 {
+    width: 457px;
+    height: 315px;
+    top: 143px;
+    left: 799px;
+    position: absolute;
+}
+
+h4 {
+    width: 212px;
+    height: 29px;
+    top: 143px;
+    left: 831px;
+
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    line-height: 28.13px;
 }
