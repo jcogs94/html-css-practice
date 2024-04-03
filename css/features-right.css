@@ -1,11 +1,12 @@
 body {
     margin: 0;
+    color: #000000;
 }
 
 .panel {
     height: 600px;
     width: 1440px;
-    background-color: gray;
+    background-color: #F2F2F2;
 }
 
 h3 {
@@ -16,7 +17,7 @@ h3 {
     font-family: "Roboto", sans-serif;
     font-size: 24px;
     line-height: 33.75px;
-    color: #000000;
+    
 }
 
 #art-1 p {
@@ -27,7 +28,20 @@ h3 {
     font-family: "Roboto", sans-serif;
     font-size: 20px;
     line-height: 28.13px;
-    color: #000000;
+}
+
+button {
+    width: 200px;
+    height: 60px;
+
+    padding: calc((60px - 25px) / 2) calc((200px - 167px) / 2);
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    line-height: 24.26px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    text-align: center;
 }
 
 #middle-element {
