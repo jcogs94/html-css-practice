@@ -91,6 +91,7 @@ button {
     border: 1px solid #000000;
     position: absolute;
     box-sizing: border-box;
+    background-color: #FFFFFF;
 }
 
 #art-2 {
@@ -110,4 +111,62 @@ h4 {
     font-family: "Roboto", sans-serif;
     font-size: 20px;
     line-height: 28.13px;
+}
+
+#art-2 p {
+    width: 422px;
+    height: 85px;
+    top: 196px;
+    left: 834px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    line-height: 28.13px;
+}
+
+#panel-2-list {
+    width: 193px;
+    height: 135px;
+    top: 323px;
+    left: 799px;
+    margin: 0;
+    padding: 0;
+}
+
+#panel-2-list li {
+    height: 29px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    line-height: 28.13px;
+}
+
+#quote-right-media {
+    width: 491px;
+    height: 286px;
+    top: 157px;
+    left: 174px;
+    position: absolute;
+}
+
+#art-3 {
+    width: 470px;
+    height: 258px;
+    top: 171px;
+    left: 737px;
+    position: absolute;
+}
+
+#white-box {
+    width: 400px;
+    height: 232.68px;
+    left: calc(265px - 174px);
+    background-color: #FFFFFF;
+    position: absolute;
+}
+
+#black-box {
+    width: 400px;
+    height: 232.68px;
+    top: calc(210.32px - 157px);
+    background-color: #000000;
+    position: absolute;
 }
